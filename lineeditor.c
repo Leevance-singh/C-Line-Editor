@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-// Data structure to store file dataaaaaaaaaaaaaaaa
+// Data structure to store file data
 typedef struct storage_node {
     char data[100];
     struct storage_node *next;
